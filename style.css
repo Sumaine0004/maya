@@ -1,0 +1,20 @@
+body{
+background-color: azure;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  margin: 3%;
+  padding: 2%;
+}
+.hey{
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+.image{
+  width: 150px;
+  height: 200px;
+  margin-bottom: 25px;
+}
+.hello{
+  background-color: blueviolet;
+  
+}
